@@ -1,0 +1,320 @@
+{
+  "pdf_path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/data/papers/test1.pdf",
+  "paper_name": "test1.pdf",
+  "page_count": 13,
+  "pdf_metadata": {
+    "format": "PDF 1.3",
+    "title": "IJN-26592-endocytosis-and-exocytosis-of-nanoparticles-in-mammalian-cel",
+    "author": "Park",
+    "subject": "Endocytosis and exocytosis of nanoparticles in mammalian cells",
+    "keywords": "",
+    "creator": "Adobe InDesign CS3 (5.0.4)",
+    "producer": "macOS Έκδοση 14.1.1 (Δομή 23B81) Quartz PDFContext",
+    "creationDate": "D:20231206123250Z00'00'",
+    "modDate": "D:20231206123250Z00'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "text_pages": [
+    {
+      "page": 1,
+      "char_count": 4074,
+      "two_column": true,
+      "split_x": 203.5,
+      "text_path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/text/page_001.txt"
+    },
+    {
+      "page": 2,
+      "char_count": 3395,
+      "two_column": true,
+      "split_x": 519.0,
+      "text_path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/text/page_002.txt"
+    },
+    {
+      "page": 3,
+      "char_count": 4255,
+      "two_column": true,
+      "split_x": 311.5,
+      "text_path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/text/page_003.txt"
+    },
+    {
+      "page": 4,
+      "char_count": 5330,
+      "two_column": true,
+      "split_x": 294.0,
+      "text_path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/text/page_004.txt"
+    },
+    {
+      "page": 5,
+      "char_count": 4300,
+      "two_column": true,
+      "split_x": 304.5,
+      "text_path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/text/page_005.txt"
+    },
+    {
+      "page": 6,
+      "char_count": 2721,
+      "two_column": true,
+      "split_x": 299.0,
+      "text_path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/text/page_006.txt"
+    },
+    {
+      "page": 7,
+      "char_count": 3111,
+      "two_column": true,
+      "split_x": 317.0,
+      "text_path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/text/page_007.txt"
+    },
+    {
+      "page": 8,
+      "char_count": 4417,
+      "two_column": false,
+      "split_x": null,
+      "text_path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/text/page_008.txt"
+    },
+    {
+      "page": 9,
+      "char_count": 3475,
+      "two_column": false,
+      "split_x": null,
+      "text_path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/text/page_009.txt"
+    },
+    {
+      "page": 10,
+      "char_count": 2270,
+      "two_column": true,
+      "split_x": 516.5,
+      "text_path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/text/page_010.txt"
+    },
+    {
+      "page": 11,
+      "char_count": 3901,
+      "two_column": true,
+      "split_x": 312.0,
+      "text_path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/text/page_011.txt"
+    },
+    {
+      "page": 12,
+      "char_count": 8014,
+      "two_column": true,
+      "split_x": 294.5,
+      "text_path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/text/page_012.txt"
+    },
+    {
+      "page": 13,
+      "char_count": 1030,
+      "two_column": true,
+      "split_x": 306.5,
+      "text_path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/text/page_013.txt"
+    }
+  ],
+  "embedded_images": [
+    {
+      "type": "embedded",
+      "page": 2,
+      "xref": 37,
+      "width": 1341,
+      "height": 1318,
+      "path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/images/embedded/page_002_img_0037.png",
+      "description": null,
+      "figure_caption": null
+    },
+    {
+      "type": "embedded",
+      "page": 3,
+      "xref": 48,
+      "width": 1146,
+      "height": 1036,
+      "path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/images/embedded/page_003_img_0048.png",
+      "description": null,
+      "figure_caption": null
+    },
+    {
+      "type": "embedded",
+      "page": 6,
+      "xref": 104,
+      "width": 1750,
+      "height": 1884,
+      "path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/images/embedded/page_006_img_0104.png",
+      "description": null,
+      "figure_caption": null
+    },
+    {
+      "type": "embedded",
+      "page": 7,
+      "xref": 127,
+      "width": 684,
+      "height": 1274,
+      "path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/images/embedded/page_007_img_0127.png",
+      "description": null,
+      "figure_caption": null
+    },
+    {
+      "type": "embedded",
+      "page": 9,
+      "xref": 157,
+      "width": 1572,
+      "height": 1402,
+      "path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/images/embedded/page_009_img_0157.png",
+      "description": null,
+      "figure_caption": null
+    },
+    {
+      "type": "embedded",
+      "page": 10,
+      "xref": 171,
+      "width": 1467,
+      "height": 2349,
+      "path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/images/embedded/page_010_img_0171.png",
+      "description": null,
+      "figure_caption": null
+    },
+    {
+      "type": "embedded",
+      "page": 11,
+      "xref": 182,
+      "width": 1043,
+      "height": 1440,
+      "path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/images/embedded/page_011_img_0182.png",
+      "description": null,
+      "figure_caption": null
+    }
+  ],
+  "rendered_pages": [
+    {
+      "type": "rendered",
+      "page": 1,
+      "width": 1275,
+      "height": 1650,
+      "dpi": 150,
+      "path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/images/rendered/page_001_render.png",
+      "description": null,
+      "figure_caption": null
+    },
+    {
+      "type": "rendered",
+      "page": 2,
+      "width": 1275,
+      "height": 1650,
+      "dpi": 150,
+      "path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/images/rendered/page_002_render.png",
+      "description": null,
+      "figure_caption": null
+    },
+    {
+      "type": "rendered",
+      "page": 3,
+      "width": 1275,
+      "height": 1650,
+      "dpi": 150,
+      "path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/images/rendered/page_003_render.png",
+      "description": null,
+      "figure_caption": null
+    },
+    {
+      "type": "rendered",
+      "page": 4,
+      "width": 1275,
+      "height": 1650,
+      "dpi": 150,
+      "path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/images/rendered/page_004_render.png",
+      "description": null,
+      "figure_caption": null
+    },
+    {
+      "type": "rendered",
+      "page": 5,
+      "width": 1275,
+      "height": 1650,
+      "dpi": 150,
+      "path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/images/rendered/page_005_render.png",
+      "description": null,
+      "figure_caption": null
+    },
+    {
+      "type": "rendered",
+      "page": 6,
+      "width": 1275,
+      "height": 1650,
+      "dpi": 150,
+      "path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/images/rendered/page_006_render.png",
+      "description": null,
+      "figure_caption": null
+    },
+    {
+      "type": "rendered",
+      "page": 7,
+      "width": 1275,
+      "height": 1650,
+      "dpi": 150,
+      "path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/images/rendered/page_007_render.png",
+      "description": null,
+      "figure_caption": null
+    },
+    {
+      "type": "rendered",
+      "page": 8,
+      "width": 1275,
+      "height": 1650,
+      "dpi": 150,
+      "path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/images/rendered/page_008_render.png",
+      "description": null,
+      "figure_caption": null
+    },
+    {
+      "type": "rendered",
+      "page": 9,
+      "width": 1275,
+      "height": 1650,
+      "dpi": 150,
+      "path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/images/rendered/page_009_render.png",
+      "description": null,
+      "figure_caption": null
+    },
+    {
+      "type": "rendered",
+      "page": 10,
+      "width": 1275,
+      "height": 1650,
+      "dpi": 150,
+      "path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/images/rendered/page_010_render.png",
+      "description": null,
+      "figure_caption": null
+    },
+    {
+      "type": "rendered",
+      "page": 11,
+      "width": 1275,
+      "height": 1650,
+      "dpi": 150,
+      "path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/images/rendered/page_011_render.png",
+      "description": null,
+      "figure_caption": null
+    },
+    {
+      "type": "rendered",
+      "page": 12,
+      "width": 1275,
+      "height": 1650,
+      "dpi": 150,
+      "path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/images/rendered/page_012_render.png",
+      "description": null,
+      "figure_caption": null
+    },
+    {
+      "type": "rendered",
+      "page": 13,
+      "width": 1275,
+      "height": 1650,
+      "dpi": 150,
+      "path": "/Users/alexandrosangelis/Documents/VS_CODE/rag-paper-pipeline/output/images/rendered/page_013_render.png",
+      "description": null,
+      "figure_caption": null
+    }
+  ],
+  "summary": {
+    "text_pages_extracted": 13,
+    "embedded_images_found": 7,
+    "page_renders_saved": 13
+  }
+}

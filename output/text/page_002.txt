@@ -1,0 +1,68 @@
+Oh and Park Dove
+Phagocytosis
+Non-vesicle related
+secretion
+Endosomal
+escape
+Endocytic
+Endocytosis vesicle Exocytosis
+Lysosome
+secretion
+Clathrin/caveolar Late
+mediated endosome Lysosome
+endocytosis
+MVBs
+Macropinocytosis Vesicle related
+Pinocytosis
+secretion
+Figure 1 Schematic of endocytosis and exocytosis patterns of nanoparticles. Nanoparticles enter the cell via four types of pathway: clathrin/caveolar-mediated endo
+phagocytosis, macropinocytosis, and pinocytosis. Nanoparticles exit the cell via three types of pathway: lysosome secretion, vesicle-related secretion, and non-vesiclesecretion.
+Abbreviation: MVBs, multivesicular bodies.
+molecules (eg, antibody, peptide, aptamer, etc) in order to a crucial role in determining their behavior because the
+achieve efficient targeting to disease sites. directly related to types and compositions of biomole
+Recently, many scientists have begun to investigate the attached to the nanoparticle surface. The surface che
+effects of different sizes, shapes, and surface chemistries on tries on the nanoparticle surface are dynamically cha
+endocytosis, toxicity, and gene regulation.8–10 However, aggre- because various biomolecules are attached and deta
+gates (strongly bonded between nanoparticles) and agglom- based on their binding affinity to the surface. Pre-coati
+erates (loosely bonded between nanoparticles or aggregates the nanoparticle surface with stabilizing molecules su
+acting under weak forces, eg, van der Waals force) formed polyethylene glycol (PEG), deoxyribonucleic acid (D
+by forces between nanoparticles and components in biologi- and albumin has been utilized to reduce ionic strength
+cal media have not been fully considered to optimize their prevent nanoparticles from aggregation or agglomerati
+physicochemical properties for biological applications. the biological solutions.12–14
+It was recently suggested that the aggregates or agglomer- Additionally, individual nanoparticles can be natu
+ates occur when the van der Waals attractive forces between coated with various biomolecules, forming the nanopar
+nanoparticles are larger than the electrostatic repulsive forces protein complex, when solubilized in biological solu
+(Figure 2).11 Aggregated or agglomerated forms of nanopar- The stability lifetimes of the nanoparticle–protein comp
+ticles would behave differently within biological systems than range from hours to days in the biological solutions
+would nanoparticles in their single form. Thus, size unifor- proteins covering the nanoparticle surface further preve
+mity of nanoparticles should be considered when the effect individual nanoparticles from aggregation or agglomera
+of physical and chemical properties of nanoparticles on their Because the formation of nanoparticle–protein comple
+interactions with biological systems is examined. mainly determined by surface chemistries of the nan
+In biological solutions, such as blood, saliva, and cell ticles, it is important to investigate which surface chemis
+culture media, the surface chemistry of nanoparticles plays the most favorable to form the nanoparticle–protein com
+52 submit your manuscript | www.dovepress.com International Journal of Nanomedicine 2014:9 (Su
+Dovepress
+
+epress
+ocytosis,
+-related
+ey are
+ecules
+emisanged
+ached
+ing of
+uch as
+DNA),
+h and
+ion in
+urally
+rticle–
+utions.
+plexes
+s. The
+ent the
+ation.
+exes is
+noparstry is
+mplex.
+uppl 1)

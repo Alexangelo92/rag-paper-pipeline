@@ -1,0 +1,83 @@
+Dovepress
+2 6
+Time (hours)
+absorption of proteins in blood on their surface.34 In addition,
+the uptake efficiency of PEGylated nanoparticles is closely
+related to PEG grafting density, which can determine the
+protein absorption.17 That is, high PEG-grafting density
+inhibits protein adsorption on the nanoparticle surface in the
+biological solution. Interaction between nanoparticles and
+biological media can further lead to surface modification that
+eventually affects their phagocytosis through the attachment
+of complementary proteins and immunoglobulins.35
+Recently, there has been much effort to utilize biological nanomaterials in drug delivery applications, due to their
+biocompatibility and natural cell-binding ability. Apoferritin,
+a demineralized form of ferritin, was suggested as a drug
+carrier because it has been known to enter the cell via ferritin receptor-mediated endocytosis.36,37 Apoferritin can be
+further utilized for a switchable delivery system because
+the endocytosis can be reversibly inhibited in various ways.
+Additionally, the internal cavity of apoferritin can be used to
+International Journal of Nanomedicine 2014:9 (Suppl 1)
+dezilanretnI
+)IFM(
+selcitrap
+A Se
+20
+Macrophages
+THP-1
+15
+10
+5
+0
+0.5 1 3
+2 6
+Time (hours)
+dezilanretnI
+)IFM(
+selcitrap
+B Se
+10
+Macrophages
+8 THP-1
+6
+4
+2
+0
+0.5 1 3
+Figure 4 Kinetics of cellular uptake of negatively (–COOH) (A) and positively (–N
+Confocal fluorescence images (right) were taken after 2 hours’ incubation with the indi
+were tagged with green dyes.
+Note: Reproduced with permission from Lunov O, Syrovets T, Loos C, et al. Differen
+monocytic cell line. ACS Nano. 2011;5:1657–1669.33 Copyright © 2011 American Chem
+Abbreviation: MFI, mean fluorescence index.
+
+Endocytosis and exocytosis of nanoparticles in mammalian cells
+erum
+Macrophages THP-1
+10 µm
+PS-COOH PS-COOH
+erum
+Macrophages THP-1
+10 µm
+PS-NH PS-NH
+2 2
+NH2) (B) charged polymeric nanoparticles in macrophages and monocytes (THP-1).
+icated nanoparticles. Cell membrane was stained with red dyes and the nanoparticles
+ntial uptake of functionalized polystyrene nanoparticles by human macrophages and a
+mical Society.
+load therapeutic molecules through channels on the protein
+shell. Other virus- and protein-based biomaterials also have
+great potential to serve as biocompatible nano-platforms in
+the drug-delivery system.38
+Shape
+As mentioned in previous subsections, size and surface
+properties of nanoparticles play crucial roles in controlling the interaction between nanoparticles and biological
+systems. The nanoparticle shape might also be important
+in determining biological behaviors of nanoparticles. For
+example, it has been reported that bacteria with various
+shapes, such as rods, spirals, and ellipsoids, have implications for macrophage recognition.16 These shapes can directly
+affect the endocytosis pattern of bacteria. Recent experiments have demonstrated a shape effect of the nanoparticle
+on cellular uptake.8,39 Nanoscale rods exhibit the highest
+uptake in human cervical cancer cells, followed by spheres,
+submit your manuscript | www.dovepress.com 57
+Dovepress

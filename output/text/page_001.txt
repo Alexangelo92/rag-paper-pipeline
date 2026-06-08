@@ -1,0 +1,65 @@
+International Journal o
+Open Access Full Text Article
+Endocytosis an
+in mammalian
+Nuri Oh1,2
+Ji-Ho Park1–3
+1Department of Bio and Brain
+Engineering, 2Institute for Optical
+Science and Technology, 3Institute for
+the NanoCentury, Korea Advanced
+Institute of Science and Technology
+(KAIST), Daejeon, Republic of Korea
+Correspondence: Ji-Ho Park
+Department of Bio and Brain
+Engineering, Institute for Optical Science
+and Technology, Institute for the
+NanoCentury, Korea Advanced Institute
+of Science and Technology (KAIST),
+Daejeon, Republic of Korea
+Tel +82 42 350 4330
+Email jihopark@kaist.ac.kr
+submit your manuscript | www.dovepress.com
+Dovepress
+http://dx.doi.org/10.2147/IJN.S26592
+
+of Nanomedicine Dovepress
+open access to scientific and medical research
+R E V I E W
+nd exocytosis of nanoparticles
+n cells
+Abstract: Engineered nanoparticles that can be injected into the human body hold tremendous
+potential to detect and treat complex diseases. Understanding of the endocytosis and exocytosis
+mechanisms of nanoparticles is essential for safe and efficient therapeutic application. In
+particular, exocytosis is of significance in the removal of nanoparticles with drugs and contrast
+agents from the body, while endocytosis is of great importance for the targeting of nanoparticles
+in disease sites. Here, we review the recent research on the endocytosis and exocytosis of
+functionalized nanoparticles based on various sizes, shapes, and surface chemistries. We believe
+that this review contributes to the design of safe nanoparticles that can efficiently enter and
+leave human cells and tissues.
+Keywords: drug delivery, endocytosis, exocytosis, cancer cell, macrophage, nanoparticle,
+toxicity
+Introduction
+Nano-sized materials have been increasingly used in the medical field to improve the
+target efficiency of drugs.1–3 In order to successfully apply nanoparticles in drug delivery, their physical and chemical properties must first be understood, thereby assisting
+in controlling the biological responses to their use. Because drug delivery nanosystems
+transport pharmaceutical compounds in the body, it is important to understand their
+physiochemical properties to safely achieve a desired therapeutic effect.
+However, these drug delivery nanosystems have shown some limitations regarding
+the toxicity of the nanoscale materials in the body.4,5 In order to reduce their toxicity, it
+is crucial to study endocytosis, exocytosis, and clearance mechanisms for nanoparticles
+released from the nanoparticle–drug conjugates. Nanoparticles exposed to the bloodstream interact with opsonin proteins. When opsonin proteins attach to the surface of
+nanoparticles, they allow macrophages of the mononuclear phagocytic system (MPS)
+to easily recognize the nanoparticles and hence the nanoparticles eventually accumulate
+in the MPS organs, such as liver and spleen. These phenomena cause low targeting
+efficiency and severe systemic toxicity of the drug-delivery nanosystems. Therefore,
+this review focuses on endocytosis and exocytosis patterns of nanoparticles in mammalian cells with respect to their size, shape, and surface chemistry (Figure 1).
+Nanoparticle stability
+Nanoparticles have been widely used in the fields of drug delivery and bioimaging
+because their size, shape, and surface properties can be precisely engineered for
+specific diseases.6,7 The nanoparticle surface can be modified with various targeting
+International Journal of Nanomedicine 2014:9 (Suppl 1) 51–63 51
+© 2014 Oh and Park. This work is published by Dove Medical Press Ltd, and licensed under Creative Commons Attribution – Non Commercial (unported, v3.0)
+License. The full terms of the License are available at http://creativecommons.org/licenses/by-nc/3.0/. Non-commercial uses of the work are permitted without any further
+permission from Dove Medical Press Ltd, provided the work is properly attributed. Permissions beyond the scope of the License are administered by Dove Medical Press Ltd. Information on how to
+request permission may be found at: http://www.dovepress.com/permissions.php

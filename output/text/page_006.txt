@@ -1,0 +1,63 @@
+Oh and Park
+A B
+50 nm
+C
+12
+Size (nm)
+50 nm
+Surface chemistry
+Surface chemistry (or surface charge) of nanoparticles can
+be determined by the chemical composition on the nanoparticle surface. The surface charge of nanoparticles can affect
+their efficiency and the pathway of cellular uptake, because
+biological systems consist of numerous biomolecules with
+various charges. Therefore, the charge of biomolecules covering the nanoparticle surface can influence the endocytosis
+patterns of nanoparticles. In this subsection, the effect of
+nanoparticle surface chemistries on the endocytosis pattern
+is discussed. For polymeric nanoparticles, carboxymethyl
+chitosan-grafted nanoparticles as negatively charged nanoparticles, and chitosan hydrochloride-grafted nanoparticles as
+positively charged nanoparticles, were used to test their cellular
+uptake efficiency.32 The different surface charges significantly
+affected their uptake by macrophages. The positively charged
+56 submit your manuscript | www.dovepress.com
+Dovepress
+rep
+selcitraponan
+dlog
+fo
+oN
+)2−mn
+3−01(
+ezis
+elcisev
+8
+4
+0
+14 30 50 74 100
+Figure 3 (A) Schematic representation of gold nanoparticles. (B) Transmission electron mi
+electron microscope images of the gold nanoparticles entrapped in cellular vesicles. Grap
+Note: Reproduced with permission from Chithrani BD, Ghazani AA, Chan WC. Dete
+cells. Nano Lett. 2006;6:662–668.8 Copyright © 2007 American Chemical Society.
+
+Dovepress
+14 nm 30 nm
+74 nm 100 nm
+14 nm 30 nm
+74 nm 100 nm
+icroscope images of citrate-coated gold nanoparticles with various sizes. (C) Transmission
+ph showing the number of the gold nanoparticles per vesicle diameter.
+ermining the size and shape dependence of gold nanoparticle uptake into mammalian
+nanoparticles exhibited a higher phagocytic uptake than did the
+negatively or neutrally charged nanoparticles. Moreover, when
+the uptake efficiency of the positively charged nanoparticles
+was compared with that of the negatively charged, neutrally
+charged, and PEGylated nanoparticles, the positively and
+negatively charged nanoparticles were internalized more rapidly than the neutrally and PEGylated charged nanoparticles.
+It was also demonstrated that negatively charged polymeric
+nanoparticles with diameters of around 100 nm were more
+efficiently phagocytized by macrophages than positively
+charged nanoparticles (Figure 4).33 Cellular uptake was also
+greater in the macrophages than in the monocytes.
+Furthermore, the surface functionalization with PEG,
+poloxamer, and poloxamine polymers prevented phagocytosis because these polymers protect the nanoparticles
+from ionic strength, promote particle dispersion, and reduce
+International Journal of Nanomedicine 2014:9 (Suppl 1)

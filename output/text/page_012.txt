@@ -1,0 +1,138 @@
+Oh and Park
+3. Jain RK, Stylianopoulos T. Delivering nanomedicine to solid tumors.
+Nat Rev Clin Oncol. 2010;7(11):653–664.
+4. Choi HS, Liu W, Misra P, et al. Renal clearance of quantum dots.
+Nat Biotechnol. 2007;25(10):1165–1170.
+5. Park JH, Gu L, von Maltzahn G, Ruoslahti E, Bhatia SN, Sailor MJ.
+Biodegradable luminescent porous silicon nanoparticles for in vivo
+applications. Nat Mat. 2009;8(4):331–336.
+6. Niikura K, Iyo N, Matsuo Y, Mitomo H, Ijiro K. Sub-100 nm gold
+nanoparticle vesicles as a drug delivery carrier enabling rapid drug
+release upon light irradiation. ACS Appl Mater Interfaces. 2013;5:
+3900–3907.
+7. Yu X, Song SK, Chen J, et al. High-resolution MRI characterization
+of human thrombus using a novel fibrin-targeted paramagnetic nanoparticle contrast agent. Magn Reson Med. 2000;44:867–872.
+8. Chithrani BD, Ghazani AA, Chan WC. Determining the size and
+shape dependence of gold nanoparticle uptake into mammalian cells.
+Nano Lett. 2006;6:662–668.
+9. Chithrani BD, Chan WC. Elucidating the mechanism of cellular uptake
+and removal of protein-coated gold nanoparticles of different sizes and
+shapes. Nano Lett. 2007;7:1542–1550.
+10. Cho EC, Xie J, Wurm PA, Xia Y. Understanding the role of surface
+charges in cellular adsorption versus internalization by selectively
+removing gold nanoparticles on the cell surface with a I2/KI etchant.
+Nano Lett. 2009;9:1080–1084.
+11. Albanese A, Chan WC. Effect of gold nanoparticle aggregation on cell
+uptake and toxicity. ACS Nano. 2011;5:5478–5489.
+12. Gillich T, Acikgöz C, Isa L, Schlüter AD, Spencer ND, Textor M,
+et al. PEG-stabilized core-shell nanoparticles: impact of linear versus
+dendritic polymer shell architecture on colloidal properties and the
+reversibility of temperature-induced aggregation. ACS Nano. 2013;7:
+316–329.
+13. Ehrenberg MS, Friedman AE, Finkelstein JN, Oberdörster G, McGrath JL.
+The influence of protein adsorption on nanoparticle association with
+cultured endothelial cells. Biomaterials. 2009;30:603–610.
+14. Park HG, Oh JH, Lee JS. Assembly-based titration for the determination
+of monodisperse plasmonic nanoparticle concentrations using DNA.
+Anal Chem. 2011;83:4989–4995.
+15. Nam J, Won N, Jin H, Chung H, Kim S. pH-Induced aggregation of
+gold nanoparticles for photothermal cancer therapy. J Am Chem Soc.
+2009;131:13639–13645.
+16. Young KD. The selective value of bacterial shape. Microbiol Mol Biol
+Rev. 2006;70:660–703.
+17. Walkey CD, Olsen JB, Guo H, Emili A, Chan WC. Nanoparticle size and
+surface chemistry determine serum protein adsorption and macrophage
+uptake. J Am Chem Soc. 2012;134:2139–2147.
+18. Iversen TG, Skotland T, Sandvig K. Endocytosis and intracellular
+transport of nanoparticles: present knowledge and need for future
+studies. Nano Today. 2011;6:176–185.
+19. Pelkmans L, Kartenbeck J, Helenius A. Caveolar endocytosis of simian
+virus 40 reveals a new two-step vesicular-transport pathway to the ER.
+Nat Cell Biol. 2001;3:473–483.
+20. Wang Z, Tiruppathi C, Minshall RD, Malik AB. Size and dynamics
+of caveolae studied using nanoparticles in living endothelial cells.
+ACS Nano. 2009;3:4110–4116.
+21. Tomatis M, Turci F, Ceschino R, et al. High aspect ratio materials: role
+of surface chemistry vs length in the historical “long and short amosite
+asbestos fibers”. Inhal Toxicol. 2010;22:984–998.
+22. Geiser M. Update on macrophage clearance of inhaled micro- and
+nanoparticles. J Aerosol Med Pulm Drug Deliv. 2010;23:207–217.
+23. Woolf TB, Roux B. Structure, energetics, and dynamics of lipid-protein
+interactions: a molecular dynamics study of the gramicidin A channel
+in a DMPC bilayer. Proteins. 1996;24:92–114.
+24. Jiang W, Kim BY, Rutka JT, Chan WC. Nanoparticle-mediated cellular
+response is size-dependent. Nat Nanotechnol. 2008;3:145–150.
+25. Win KY, Feng SS. Effects of particle size and surface coating on cellular
+uptake of polymeric nanoparticles for oral delivery of anticancer drugs.
+Biomaterials. 2005;26:2713–2722.
+62 submit your manuscript | www.dovepress.com
+Dovepress
+
+Dovepress
+26. Jin H, Heller DA, Sharma R, Strano MS. Size-dependent cellular
+uptake and expulsion of single-walled carbon nanotubes: single particle
+tracking and a generic uptake model for nanoparticles. ACS Nano.
+2009;3:149–158.
+27. Champion JA, Walker A, Mitragotri S. Role of particle size in phagocytosis
+of polymeric microspheres. Pharm Res. 2008;25:1815–1821.
+28. Vonarbourg A, Passirani C, Saulnier P, Simard P, Leroux JC, Benoit JP,
+et al. Evaluation of pegylated lipid nanocapsules versus complement
+system activation and macrophage uptake. J Biomed Mater Res A.
+2006;78:620–628.
+29. Chono S, Tanino T, Seki T, Morimoto K. Uptake characteristics of
+liposomes by rat alveolar macrophages: influence of particle size
+and surface mannose modification. J Pharm Pharmacol. 2007;59:
+75–80.
+30. França A, Aggarwal P, Barsov EV, Kozlov SV, Dobrovolskaia MA,
+González-Fernández Á, et al. Macrophage scavenger receptor
+A mediates the uptake of gold colloids by macrophages in vitro.
+Nanomedicine (Lond). 2011;6:1175–1188.
+31. Tsai CY, Lu SL, Hu CW, Yeh CS, Lee GB, Lei HY. Size-dependent
+attenuation of TLR9 signaling by gold nanoparticles in macrophages.
+J Immunol. 2012;188:68–76.
+32. He C, Hu Y, Yin L, Tang C, Yin C. Effects of particle size and surface
+charge on cellular uptake and biodistribution of polymeric nanoparticles.
+Biomaterials. 2010;31:3657–3666.
+33. Lunov O, Syrovets T, Loos C, et al. Differential uptake of functionalized
+polystyrene nanoparticles by human macrophages and a monocytic cell
+line. ACS Nano. 2011;5:1657–1669.
+34. Moghimi SM. Re-establishing the long circulatory behaviour of
+poloxamine-coated particles after repeated intravenous administration:
+applications in cancer drug delivery and imaging. Biochim Biophys
+Acta. 1999;1472:399–403.
+35. Dobrovolskaia MA, McNeil SE. Immunological properties of
+engineered nanomaterials. Nat Nanotechnol. 2007;2:469–478.
+36. Zhang L, Fischer W, Pippel E, Hause G, Brandsch M, Knez M, et al.
+Receptor-mediated cellular uptake of nanoparticles: a switchable
+delivery system. Small. 2011;7:1538–1541.
+37. Zhang L, Laug L, Münchgesang W, et al. Reducing stress on cells with
+apoferritin-encapsulated platinum nanoparticles. Nano Lett. 2010;10:
+219–223.
+38. Kaiser CR, Flenniken ML, Gillitzer E, et al. Biodistribution studies of
+protein cage nanoparticles demonstrate broad tissue distribution and
+rapid clearance in vivo. Int J Nanomedicine. 2007;2:715–733.
+39. Qiu Y, Lu Y, Wang L, et al. Surface chemistry and aspect ratio mediated
+cellular uptake of Au nanorods. Biomaterials. 2010;31:7606–7619.
+40. Bartneck M, Keul HA, Singh S, et al. Rapid uptake of gold nanorods
+by primary human blood phagocytes and immunomodulatory effects
+of surface chemistry. ACS Nano. 2010;4:3073–3086.
+41. Bartczak D, Nitti S, Millar TM, Kanaras AG. Exocytosis of peptide
+functionalized gold nanoparticles in endothelial cells. Nanoscale.
+2012;4:4470–4472.
+42. Panyam J, Labhasetwar V. Dynamics of endocytosis and exocytosis of
+poly(D,L-lactide-co-glycolide) nanoparticles in vascular smooth muscle
+cells. Pharm Res. 2003;20:212–220.
+43. Dombu CY, Kroubi M, Zibouche R, Matran R, Betbeder D.
+Characterization of endocytosis and exocytosis of cationic nanoparticles
+in airway epithelium cells. Nanotechnology. 2010;21:355102.
+44. Serda RE, Mack A, van de Ven AL, et al. Logic-embedded vectors
+for intracellular partitioning, endosomal escape, and exocytosis of
+nanoparticles. Small. 2010;6:2691–2700.
+45. Jiang X, Röcker C, Hafner M, Brandholt S, Dörlich RM, Nienhaus GU.
+Endo- and exocytosis of zwitterionic quantum dot nanoparticles by live
+HeLa cells. ACS Nano. 2010;4:6787–6797.
+46. Nativo P, Prior IA, Brust M. Uptake and intracellular fate of surfacemodified gold nanoparticles. ACS Nano. 2008;2:1639–1644.
+47. Villanueva A, Cañete M, Roca AG, et al. The influence of surface
+functionalization on the enhanced internalization of magnetic
+nanoparticles in cancer cells. Nanotechnology. 2009;20:115103.
+International Journal of Nanomedicine 2014:9 (Suppl 1)

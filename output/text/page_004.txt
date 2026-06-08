@@ -1,0 +1,92 @@
+Oh and Park
+endocytosis indicates receptor-mediated endocytosis. Many
+types of cells use the clathrin- and caveolae-mediated
+endocytosis pathways to internalize nanoscale materials,
+including viruses and nanoparticles.19–21 These endocytosis
+pathways are the most important pathways for the internalization of nanoparticles into cells because the nanoparticles
+are directly coated with the plasma proteins when exposed
+to physiological solutions. The phagocytosis pathway is
+used when phagocytic cells internalize foreign materials
+with sizes larger than 0.5 μm.16 The phagocytosis pathway
+is actin-dependent and restricted to professional phagocytes,
+such as macrophages, dendritic cells, and neutrophils. The
+macropinocytosis pathway is a non-specific process to
+internalize fluids and particles together into the cell, whereas
+the pinocytosis pathway absorbs biological fluids from the
+external environment of a cell.22 These pathways are very
+important to translocate single nanoparticles with sizes
+below 10 nm into the cell.
+When nanoparticles are systemically administered into
+the body, they are confronted with many types of cells. Since
+nanoparticles have emerged as effective drug carriers to
+treat complex diseases, it has become crucial to understand
+nanoparticle endocytosis mechanisms. It is believed that
+the endocytosis efficiency of nanoparticles is dependent on
+the physicochemical properties, such as size, shape, and
+surface chemistry, as well as cell type. Thus, interaction of
+nanoparticles with cells depending on their physicochemical
+properties is discussed in the following sections.
+Factors affecting nanoparticle endocytosis
+Nanoparticles circulating in the bloodstream happen to meet
+and internalize into many types of cells through the plasma
+membrane. The plasma membrane is a selectively permeable
+membrane that transfers materials that are essential for sustaining the cell’s life. Naturally, materials necessary for the cell’s
+life, such as ions and nano-sized proteins, can pass through
+the lipid bilayer using specialized membrane-transport protein
+channels.23 Thus, the plasma membrane of cells would select
+the endocytosis pathways of nanoparticles depending on their
+size, shape, and surface chemistry (Table 2).
+Size
+Size-dependent cellular uptake of nanoparticles has been
+extensively investigated in various cell lines because the
+nanoparticle size has been known to be a key determinant of
+the uptake pathways. Many critical in vivo functions of nanoparticles, such as circulation time, targeting, internalization,
+and clearance, depend on their size. Thus, the cellular
+54 submit your manuscript | www.dovepress.com
+Dovepress
+
+Dovepress
+uptake of nanoparticles with various sizes is reviewed in
+this subsection.
+Much interest has focused on understanding sizedependent internalization of nanoparticles in cancer cells
+and fibroblasts. The cellular uptake of gold nanoparticles
+of various sizes was studied in human cervical cancer cells
+(Figure 3).8,9,24 Researchers at the University of Toronto,
+Canada, demonstrated that uptake mechanism and saturation
+concentration of nanoparticles was dependent on their size.
+The 50 nm gold nanoparticles showed the most efficient cellular uptake compared with other sizes. The cellular uptake
+of polystyrene (PS) nanoparticles of various sizes was also
+tested on a human colon adenocarcinoma cell line.25 The
+PS nanoparticles with a size of 100 nm were taken up into
+the cells more efficiently than those with sizes of 50, 200,
+500, and 1,000 nm. The internalization efficiency of the
+PS nanoparticles with a size of 50 nm was the lowest of all
+sizes. These two studies suggest that the patterns of cellular
+uptake could also vary according to nanoparticle material
+type. Although different cancer cell lines were used for each
+experiment, the stiffness of nanoparticles could affect their
+cellular uptake. Stiffer nanoparticles would interact tightly
+with the plasma membrane of cell, thereby causing rapid
+endocytosis.
+Single-walled carbon nanotubes (SWNTs) coated with
+DNA molecules were used to investigate length-dependent
+cellular uptake.26 The results demonstrated that long
+(660 ± 40 nm) and short (130 ± 18 nm) SWNTs have lower
+uptake efficiencies in the fibroblasts than SWNTs with average lengths of 430 ± 35 nm and 320 ± 30 nm. The SWNTs
+with an average length of 320 ± 30 nm had the greatest
+uptake pattern.
+In addition to endocytosis in non-phagocytic cells,
+much attention has recently been paid to understanding
+interactions between nanoparticles and phagocytic cells
+such as macrophages, because it could be relevant to the
+design of nanoparticles to avoid the immune system, thus
+increasing their target efficiency. Nanoparticles with sizes
+larger than 0.5 μm have been known to enter phagocytic
+cells via phagocytosis pathways. Polymeric microspheres
+with diameters of 2–3 μm exhibited the maximal phagocytosis rate.27 Interestingly, this size range coincides with
+the general size of the bacteria that are the most common
+targets of the MPS.
+On the other hand, there have been some efforts to examine size-dependent phagocytosis of nanoparticles smaller than
+0.5 μm. Among many types of nanoparticles, lipid-based
+nanoparticles, including US Food and Drug Administration
+International Journal of Nanomedicine 2014:9 (Suppl 1)

@@ -1,0 +1,88 @@
+Dovepress
+E > E E < E
+ES vdW ES vdW
+Au
+NaCl
+k
+1
+Au Au
+k k
+2 Protein Protein 2
+E > E E > E
+ES vdW ES vdW
+Figure 2 Scheme of aggregation or agglomeration mechanism. The stabilizing
+electrostatic forces (E ) on the surface of bare nanoparticles are neutralized by
+ES
+NaCl ions in the biological solution, causing the van der Waals forces (E ) to drive
+vdW
+formation of aggregation or agglomeration. The protein coating of nanoparticles can
+reduce the aggregation or agglomeration.
+Note: Reproduced with permission from Albanese A, Chan WC. Effect of gold
+nanoparticle aggregation on cell uptake and toxicity. ACS Nano. 2011;5:5478–5489.11
+Copyright © 2011 American Chemical Society.
+Therefore, natural nanoparticle–protein complexes formed in
+biological environments would allow us to study how individual nanoparticles interact with various types of cells.
+When we study the endocytosis and exocytosis of nanoparticles, cells are treated with the nanoparticles in the culture
+medium containing various serum proteins. Most of the
+nanoparticles are first coated with the serum proteins and then
+met with the plasma membrane of cells. If the nanoparticles
+are already aggregated or agglomerated prior to binding to
+the membrane, their endocytosis patterns would differ from
+the endocytosis patterns of individual nanoparticles. The
+degree of aggregation or agglomeration of the nanoparticles
+Table 1 Classification of endocytosis pathways
+Pathway
+Specific pathway
+Endocytosis Clathrin- and caveolin-mediated
+Phagocytosis Mannose receptor-, complement
+receptor-, Fcγ receptor-, and
+scavenger receptor-mediated
+Non-specific pathway
+Macro-pinocytosis –
+Pinocytosis –
+International Journal of Nanomedicine 2014:9 (Suppl 1)
+
+Endocytosis and exocytosis of nanoparticles in mammalian cells
+can be determined by measuring time-dependent change of
+size and surface charge of the nanoparticles in the culture
+medium. The (hydrodynamic) size has been mainly analyzed
+using transmission electron microscopy (TEM) and dynamic
+light scattering (DLS) while the surface charge is determined
+by zeta potential measurements. In particular, the ultraviolet–
+visible (UV/Vis) spectrophotometry has also been used to
+monitor the size of gold nanoparticles because their localized
+surface plasmon resonance peaks can be shifted to a longer
+wavelength by increasing their size.15 The DLS technique has
+been the most widely used to monitor size change because
+it directly measures hydrodynamic sizes of protein-coated
+nanoparticles in the biological solution with nanometer
+precision. Furthermore, the zeta potentials of protein-coated
+nanoparticles mostly appeared as a negative surface charge
+although the nanoparticles had different original surface
+chemistries. It suggests that most proteins attached on
+the nanoparticle surface seem to be negatively charged,
+regardless of their content and composition, although they
+may alter depending on the surface chemistries of the
+nanoparticles. Thus, the content and composition of proteins
+preferentially attached on the nanoparticle surfaces should
+be studied for the cellular uptake and immune response of
+nanoparticles.16,17
+Nanoparticle endocytosis
+Endocytosis mechanism
+All types of cells in the body use the endocytosis process to
+communicate with the biological environments. This process
+is an energy-dependent process through which cells internalize ions and biomolecules.18 In particular, the cells internalize nutrients and signaling molecules to obtain energy
+and interact with other cells, respectively. The endocytosis
+pathways are typically classified into clathrin- and caveolaemediated endocytosis, phagocytosis, macropinocytosis,
+and pinocytosis (Table 1). Clathrin- and caveolae-mediated
+Definition
+Energy-dependent process by which cells internalize biomolecules
+Actin-dependent endocytic process by which professional
+phagocytes (macrophages, dendritic cells and neutrophils) engulf
+particles with sizes larger than 0.5 μm
+Endocytic process by which cells internalize fluids and particles
+together, and large vesicles (0.2–5 μm) are formed
+Endocytic process by which cells absorb extracellular fluids, small
+molecules and small vesicles (~100 nm) are formed
+submit your manuscript | www.dovepress.com 53
+Dovepress

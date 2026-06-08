@@ -1,0 +1,97 @@
+Dovepress
+Table 2 Endocytosis of nanoparticles
+Nanoparticle Size (dm) Coating Surface
+material charge
+Spherical 14, 50, 74, and Citric acid Negative
+AuNP 100 nm
+16 nm PEG, TAT, and –
+NLS peptides
+Rod-shaped 40 × 14 nm and Citric acid Negative
+AuNP 74 × 14 nm
+Spherical and 15, 50, and PEO with either Negative
+rod-shaped 15 × 50 nm hydroxyl, carboxyl, or positive
+AuNP or amine group
+SPION 6 nm Dextran, Negative
+aminodextran, or positive
+heparin, or DMSA
+SWNT 130–660 nm DNA Negative
+Polymeric NP 150–500 nm CMC or CH Negative
+or positive
+PLGA NP 260–300 nm PVA or vitamin Negative
+E TPGS
+Apoferritin 12 nm – –
+Abbreviations: AuNP, gold nanoparticles; CH, chitosan hydrochloride; CM
+deoxyribonucleic acid; NLS, nuclear localization sequence; PEG, polyethylene glyco
+SPION, superparamagnetic iron oxide nanoparticles; SWNT, single-walled carbon
+polyethylene glycol 1000.
+(FDA)-approved liposomes have been of particular interes
+in the drug-delivery field due to their drug-loading capability and biocompatibility. Lipid nanoparticles with sizes of
+20, 50, and 100 nm were taken up into the macrophages by
+complement receptor-mediated phagocytosis.28 In addition
+liposomes with sizes ranging from 100 to 2,000 nm were also
+tested for their intracellular uptake in the macrophages.29 The
+amount of liposomes taken up by the macrophages increased
+with size over the range 100–1,000 nm, but the uptake rate
+became constant with sizes over 1,000 nm. Size-dependen
+phagocytosis of gold nanoparticles was also studied in many
+research groups. It was reported that gold nanoparticles
+with sizes below 100 nm were phagocytosed via scavenger
+receptor-mediated phagocytosis.30 Tsai et al31 also demonstrated that gold nanoparticles with a size of 4 nm showed
+the highest uptake in the macrophages based on the number
+International Journal of Nanomedicine 2014:9 (Suppl 1)
+
+Endocytosis and exocytosis of nanoparticles in mammalian cells
+Cell types Summary Reference
+Human cervical 50 nm AuNPs had the highest 8,9,24
+cancer cell cellular uptake
+Human cervical PEG-coated AuNPs were not 46
+cancer cell taken up at all by cells. TAT
+peptides facilitated the direct
+transfer of nanoparticles into
+cells. NLS peptide-modified
+AuNPs were found in the nucleus
+Human cervical Rod-shaped nanoparticles with 8
+cancer cell a higher aspect ratio showed
+lower cellular uptake than those
+with a lower aspect ratio
+Human Nanorods were more efficiently 40
+e macrophage taken up by macrophages than
+were spherical NPs
+Human cervical Dextran-coated NPs were not 47
+e cancer cell taken up by cells. DMSA-coated
+NPs displayed low cellular uptake.
+Heparin and aminodextran-coated
+NPs showed the highest cellular
+uptake
+Embryonic 660 nm and 130 nm SWNTs 26
+fibroblast showed lower cellular uptake
+than 430 nm and 320 nm SWNTs
+Murine CH-coated NPs showed higher 32
+e macrophage cellular uptake than
+CMC-coated NPs
+Human colon Cellular uptake of vitamin 25
+adeno-carcinoma E TPGS-coated NPs was higher
+cell than that of PVA-coated NPs
+Human intestinal Apoferrin enters the cell via ferritin 36
+epithelial cell receptor-mediated endocytosis
+MC, carboxymethyl chitosan; dm, diameter; DMSA, dimercaptosuccinic acid; DNA,
+ol; PEO, poly(ethylene oxide); PLGA, poly(D,L-lactide-co-glycolide); PVA, polyvinyl alcohol;
+n nanotubes; TAT, HIV tat protein transduction domain; E TPGS, Vitamin E succinated
+st of nanoparticles taken up per cell, compared with those
+- sized 11, 19, 35, and 45 nm. The 4 nm gold nanoparticles
+f exhibited the highest potency in inhibiting tumor necrosis
+y factor (TNF)-α production related to TNR9-mediated innate
+n, immune systems.
+o Although the experimental results introduced here
+e showed size-dependent cellular uptake of nanoparticles in
+d many types of cells, the physical size would not be fully
+e reflected when they meet the plasma membrane of the cell.
+nt Most nanoparticles tend to aggregate in biological solutions,
+y increasing their overall size. The results regarding the size
+s effect would be influenced by nanoparticle aggregation
+r before entering the cell. Thus, it should be tested whether
+- nanoparticles prepared to study their size-dependent
+d endocytosis retain their singularity in the biological media
+r before they enter the cell.
+submit your manuscript | www.dovepress.com 55
+Dovepress

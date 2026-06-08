@@ -1,0 +1,87 @@
+Dovepress
+Primary endocytic
+vesicle
+Exocytosis
+Early endosome
+M tr ic a r n o s tu p b o u rt
+le-dependent
+Late endosome or lysosome
+quantum dots was around 4 nm, which is much smaller
+than conventional nanoparticles studied for exocytosis.
+In the endocytosis process, most of these smaller nanoparticles were observed on the plasma membrane prior to
+internalization. In addition, the quantum dots were found to
+International Journal of Nanomedicine 2014:9 (Suppl 1)
+?
+b a
+?
+2 min 3 min 10 min
+18 min 26 min 34 min
+42 min 50 min 60 min
+Time (min)
+desotycoxe
+sDQ
+fo
+noitcarF
+A
+B
+C
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+0 50 100 150 200 250
+Figure 7 (A) Schematic diagram showing the endocytosis and exocytosis processes
+of D-penicillamine-coated quantum dots; a: Clathrin-mediated endocytosis; b:
+Macropinocytosis. (B) Interaction of D-penicillamine-coated quantum dots (green)
+with plasma membrane of a HeLa cell before internalization. The plasma membrane
+was stained with the red membrane dye. Scale bar: 10 μm. (C) Kinetics of exocytosis of
+D-penicillamine-coated quantum dots after removing the nanoparticles in the media.
+Note: Reproduced with permission from Jiang X, Röcker C, Hafner M, Brandholt
+S, Dörlich RM, Nienhaus GU. Endo- and exocytosis of zwitterionic quantum dot
+nanoparticles by live HeLa cells. ACS Nano. 2010;4:6787–6797.45 Copyright ©
+2010 American Chemical Society.
+Abbreviations: QDs, quantum dots; min, minutes.
+
+Endocytosis and exocytosis of nanoparticles in mammalian cells
+enter the cells via a clathrin-mediated endocytosis pathway
+and macropinocytosis. In the exocytosis process, some of the
+quantum dots trapped in endosomes were actively transported
+to the cell periphery and exocytosed to the media within
+21 minutes after internalization.
+Summary and future prospects
+This review article summarizes the endocytosis and exocytosis of nanoparticles of different sizes, shapes, and surface
+chemistries in many types of cells. Generally, smaller nanoparticles seem to enter and exit the cell more efficiently.
+Spherical nanoparticles are more favorable to be internalized
+into the cell than cylindrical nanoparticles. Positively charged
+nanoparticles exhibited much higher rates of endocytosis
+than negatively or neutrally charged nanoparticles, while
+they seem to remain in the cell longer.
+Although nanoparticle-based drug delivery has been
+actively developed to treat complex diseases, concerns
+regarding nanoparticle biosafety have still been raised,
+limiting their clinical translations. Understanding the endocytosis of nanoparticles enables us to develop more efficient
+intracellular drug-delivery nanosystems, while understating
+their exocytosis allow us to develop more clearable delivery
+nanosystems after drug delivery. However, the exocytosis
+patterns of nanoparticles remain not yet fully understood,
+although the cellular uptake of nanoparticles has been studied
+by many research groups. Thus, a considerable amount of
+effort to study the endocytosis and exocytosis of nanoparticles should be made in order to develop clinically translatable targeted nanoparticles in the drug-delivery field.
+Acknowledgments
+This work was supported by the National Research Foundation of Korea, funded by the Ministry of Science, ICT
+and Future Planning (grant no 2012M3A9C6050125), the
+National R&D Program for Cancer Control, Ministry for
+Health and Welfare (grant no 1220070), and the World Class
+University program funded by the Ministry of Education,
+Science and Technology, Republic of Korea (grant no R322008-000-10218-0).
+Disclosure
+The authors report no conflicts of interest in this work.
+References
+1. Ferrari M. Cancer nanotechnology: opportunities and challenges. Nat
+Rev Cancer. 2005;5(3):161–171.
+2. Ruoslahti E, Bhatia SN, Sailor MJ. Targeting of drugs and nanoparticles
+to tumors. J Cell Biol. 2010;188(6):759–768.
+submit your manuscript | www.dovepress.com 61
+Dovepress

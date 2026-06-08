@@ -1,0 +1,53 @@
+Oh and Park Dovepress
+cylinders, and cubes, and the cellular uptake of cylindrical macrophages, to evaluate their biosafety. However, compared
+particles depends strongly on their aspect ratio. However, the with investigations of nanoparticle endocytosis, relatively
+receptor-mediated endocytosis of gold nanorods was vastly little effort has been made to investigate the exocytosis of
+decreased with increases in their aspect ratio. The comparison nanoparticles that may be responsible for their systemic
+of intracellular uptake efficiency between rod-shaped and elimination and toxicity. Thus, the exocytosis of functionalspherical nanoparticles has also been investigated in many ized nanoparticles is reviewed in this section (Table 3).
+types of cells.40 Interestingly, the results demonstrated that Many studies have compared the exocytosis of rodthe uptake of rod-shaped nanoparticles by macrophages was shaped nanoparticles with that of spherical nanoparticles.
+more efficient than that of the spherical nanoparticles, while Chithrani and Chan9 examined differences in exocytosis
+the spherical nanoparticles were taken up by cervical cancer phenomena between spherical and rod-shaped gold nanocells and human lung epithelial cells more efficiently than particles using various cell types (Figure 5). The surface of
+were rod-shaped nanoparticles. gold nanoparticles was coated with transferrin proteins for
+their receptor-mediated endocytosis. Importantly, this work
+Nanoparticle exocytosis described that the cellular uptake could be considered as a
+An understanding of the cellular uptake and organ dis- result of competition between the thermodynamic driving
+tribution of nanoparticles is important when examining force for wrapping and the receptor diffusion kinetics. In
+their targeting and therapeutic efficiency in drug-delivery that respect, the 50 nm gold nanoparticles showed the fastest
+applications. Nanoparticles administered into the body are wrapping time, and therefore the receptor-ligand interaction
+eventually cleared by organs in the MPS, such as the liver and could produce sufficient free energy to drive the nanoparticles
+spleen. Nanoparticles remain in these organs for a long time into the cell. On the other hand, smaller nanoparticles with a
+after being taken up by the macrophages, which increases slower wrapping time exhibited a faster rate of exocytosis. The
+the likelihood of unintended acute or chronic toxicity. exocytosis rate of the 14 nm nanoparticles was much faster
+Thus, it is also crucial to study exocytosis of the internal- than that of the 74 nm nanoparticles. In addition, the fraction
+ized nanoparticles from many types of cells, particularly of the rod-shaped nanoparticles released outside the cells
+Table 3 Exocytosis of nanoparticles
+NP Size (dm) Coating Surface Cell types Summary Reference
+material charge
+Spherical 14, 50, and Transferrin Negative Human fibroblast, Smaller NPs show a faster 9
+AuNP 74 nm cervical cancer, rate of exocytosis
+brain tumor cells
+17 nm KATWLPPR Negative Human endothelial cell In KATWLPPR peptide, 41
+and KPRQPSLP exocytosis of NPs taken up by
+peptide cells progressively increase until
+6 hours. In KPRQPSLP peptides,
+some exocytosed particles are re-taken
+up by the cells after 4 hours
+Rod-shaped 20 × 30, Transferrin Negative Human fibroblast, Nanorods with lower aspect ratios 9
+AuNP 14 × 50, and cervical cancer, showed slower exocytosis.
+7 × 42 nm brain tumor cells The exocytosis rate of
+rod-shaped NPs was higher
+than that of spherical NPs
+Quantum dot 8 nm D-penicillamine Negative Human cervical Half-life of exocytosed fraction 45
+cancer cells was 21 minutes and reached
+saturation after 2 hours
+PLGA NP 97 nm Bovine serum Negative Human arterial vascular Half-life of exocytosed fraction 42
+albumin smooth muscle cells was 30 minutes
+Polysacch 60 nm Hydroxycholine Positive Human bronchial Cholesterol depletion blocked 43
+arides NP epithelial cell exocytosis of NPs
+SPION 10 nm PEGylated amine Positive Murine macrophages SPIONs released from carriers 44
+in the intracellular region were
+exocytosed by membrane vesicles
+Abbreviations: AuNP, gold nanoparticle; dm, diameter; PEG, polyethylene glycol; PLGA, poly(D,L-lactide-co-glycolide); SPION, superparamagnetic iron oxide nanoparticles;
+NPs, nanoparticles.
+58 submit your manuscript | www.dovepress.com International Journal of Nanomedicine 2014:9 (Suppl 1)
+Dovepress

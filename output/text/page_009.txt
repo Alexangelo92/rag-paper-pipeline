@@ -1,0 +1,48 @@
+Dovepress Endocytosis and exocytosis of nanoparticles in mammalian cells
+A B
+4 6 8
+Time (hours)
+Transferrin
+Gold nanoparticle
+C
+was generally higher than that of the spherical nanoparticles. of nanoparticles was found to be energy-dependent because
+The exocytosis of peptide-coated gold nanoparticles was it was significantly inhibited with sodium azide and
+also investigated in endothelial cells.41 Nanoparticles func- deoxyglucose. Furthermore, authors demonstrated that the
+tionalized with KATWLPPR peptides have been known to exocytosis pattern of nanoparticles was dependent on the
+bind to plasma membrane receptors on endothelial cells for proteins in the medium, because the proteins were carried
+endocytosis, while nanoparticles coated with KPRQPSLP into the cells along with the nanoparticles and interacted with
+peptides did not interact with the receptors for endocytosis. biological systems inside the cells.
+KATWLPPR peptide-coated nanoparticles taken up by cells Exocytosis of polysaccharide cationic nanoparticles
+were progressively exocytosed up until 6 hours. On the other was also studied in airway epithelium cells.43 The cationic
+hand, KPRQPSLP peptide-coated nanoparticles showed a polymer hydroxycholine was used to coat nanoparticles.
+more complex exocytosis profile. Interestingly, it was found After the surface modification, the nanoparticles appeared
+that the exocytosed KPRQPSLP peptide-coated nanoparticles to be an approximate size of 60 nm. For exocytosis experiwere re-taken up by the cells after 4 hours. ments, human bronchial epithelial cells were treated with
+The exocytosis of poly(D,L-lactide-co-glycolide) the nanoparticles for 30 minutes. The amount of exocytosed
+(PLGA) nanoparticles was also examined in vascular nanoparticles increased significantly after 1 hour. In addition,
+smooth muscle cells.42 The size and zeta potential of PLGA cholesterol depletion completely blocked the exocytosis of
+nanoparticles coated with bovine serum albumin (BSA) nanoparticles, indicating that their exocytosis is cholesterolwere around 97 nm and –20 mV, respectively. The cellular dependent.
+uptake of nanoparticles increased with incubation time. The exocytosis patterns of superparamagnetic iron oxide
+The exocytosis of nanoparticles increased up to 65% of the nanoparticles and quantum dots were also studied in many
+internalized fraction within 30 minutes when nanoparticles in research groups. Serda et al44 investigated the intracellular trafthe culture media were removed. In addition, the exocytosis ficking of iron oxide nanoparticles delivered into macrophage
+International Journal of Nanomedicine 2014:9 (Suppl 1) submit your manuscript | www.dovepress.com 59
+Dovepress
+selcitraponan
+fo
+noitcarF
+desotycoxe
+14 nm
+0.5
+50 nm
+74 nm
+0.4
+0.3
+0.2
+0.1
+0.0
+0 2
+a b c d
+Figure 5 (A) Schematic depicting of transferrin-coated gold nanoparticles. (B) Kinetics of exocytosis patterns of the nanoparticles with different sizes. (C) Different stages of
+exocytosis patterns: (a) Movement of the vesicles containing nanoparticles toward the cell membrane; (b) Docking of one of the vesicles at the cell membrane; (c) Excretion
+of nanoparticles; (d) Cluster of nanoparticles after exocytosis.
+Note: Reproduced with permission from Chithrani BD, Chan WC. Elucidating the mechanism of cellular uptake and removal of protein-coated gold nanoparticles of different
+sizes and shapes. Nano Lett. 2007;7:1542–1550.9 Copyright © 2007 American Chemical Society.
